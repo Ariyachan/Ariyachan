@@ -8,7 +8,7 @@ I design interfaces and build interactive products for the web and desktop.
 
 A project workspace for independent design studios. Project briefs, task assignments, deadlines and drawing reviews share one coherent desktop and mobile interface.
 
-[![FIELDWORK studio workspace](https://raw.githubusercontent.com/Ariyachan/fieldwork/main/public/screenshots/overview.jpg)](https://ariyachan.github.io/fieldwork/)
+[![FIELDWORK studio workspace](https://raw.githubusercontent.com/Ariyachan/fieldwork/main/public/screenshots/overview.jpg?v=2)](https://ariyachan.github.io/fieldwork/)
 
 **[Open the workspace](https://ariyachan.github.io/fieldwork/)** · **[Design case study](https://ariyachan.github.io/fieldwork/case-study.html)** · **[Source code](https://github.com/Ariyachan/fieldwork)**
 
